@@ -1,1 +1,1 @@
-# Dominae Video Editing | Created by Dominate Media
+# Dominate Video Editing | Created by Dominate Media
