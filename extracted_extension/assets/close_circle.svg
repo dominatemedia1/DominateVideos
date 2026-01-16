@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Close" transform="translate(-273 -8)">
+    <rect id="Placement_Area" data-name="Placement Area" width="32" height="32" transform="translate(273 8)" fill="red" opacity="0"/>
+    <circle id="Background" cx="16" cy="16" r="16" transform="translate(273 8)" fill="rgba(255,255,255,0)"/>
+    <g id="Icon">
+      <path id="Path_132" data-name="Path 132" d="M7.343,6l3.4-3.4A.95.95,0,1,0,9.4,1.262L6,4.657l-3.4-3.4A.95.95,0,1,0,1.262,2.6L4.658,6l-3.4,3.4A.95.95,0,1,0,2.6,10.738L6,7.343l3.4,3.395A.95.95,0,1,0,10.739,9.4Z" transform="translate(283 18)" fill="#fff"/>
+      <rect id="Frame" width="12" height="12" transform="translate(283 18)" fill="none"/>
+    </g>
+  </g>
+</svg>
